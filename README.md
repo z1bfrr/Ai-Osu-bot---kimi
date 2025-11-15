@@ -180,7 +180,7 @@ SOFTWARE.
 
 ## Credits
 
-- Project lead / initial author: *Your Name* (z1bf)
+- Project lead / initial author: z1bf
 - AI assistant (project codename): **Kimi**
 - Libraries: `librosa`, `numpy`, `pygame` (or alternatives)
 
